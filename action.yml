@@ -1,4 +1,4 @@
-name: Create a Release
+name: Create a Release by impossible98
 description: Create a release for a tag in your repository.
 author: impossible98
 inputs:
